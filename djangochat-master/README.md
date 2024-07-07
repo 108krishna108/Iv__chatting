@@ -1,18 +1,13 @@
 # Djangochat
+It is made with python 
 
-Learn how to build a real-time chat application using Django and Channels. The design is made using Tailwind CSS.
+framework used is Django
 
-This repository is a part of a video tutorial on my YouTube channel: Code With Stein
+Real time chatting
 
-## YouTube
-* [Part 1](https://www.youtube.com/watch?v=OyUrMENgZRE)
-* [Part 2](https://www.youtube.com/watch?v=r8LN9yxLgdY)
-* [Part 3](https://www.youtube.com/watch?v=0CZuO5TV8SI)
+Easy to acess
 
-My channel:
-[CodeWithStein](https://www.youtube.com/channel/UCfVoYvY8BfTDeF63JQmQJvg/?sub_confirmation=1)
+Easy to learn
 
-## Author
-This repository and video is created by CodeWithStein. Check out my website for more information.
+Fun project
 
-[Code With Stein - Website](https://codewithstein.com)
